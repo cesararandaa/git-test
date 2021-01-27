@@ -1,0 +1,37 @@
+[
+	{
+		"nombre": "Phylis",
+		"hobby": "futbol",
+		"edad": 22,
+		"telefono": "4422736473",
+		"direccion": "Juriquilla, Queretaro"
+	},
+	{
+		"nombre": "Lacie",
+		"hobby": "basket",
+		"edad": 25,
+		"telefono": "4420967548",
+		"direccion": "Centro, Ciudad de Mexico"
+	},
+	{
+		"nombre": "Ada",
+		"hobby": "piano",
+		"edad": 24,
+		"telefono": "4424637890",
+		"direccion": "Satelite, Estado de Mexico"
+	},
+	{
+		"nombre": "Angela",
+		"hobby": "natacion",
+		"edad": 20,
+		"telefono": "4420967548",
+		"direccion": "Campestre, Queretaro"
+	},
+	{
+		"nombre": "Albertina",
+		"hobby": "ajedrez",
+		"edad": 23,
+		"telefono": "5512846372",
+		"direccion": "Centro, San Miguel de Allende"
+	}
+]
